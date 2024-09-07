@@ -1,0 +1,12 @@
+#jangan recod lu kunyuk
+#gak usah dec dec mememk
+#ketawan mampus lu
+#coded by MANZ XPLOIT
+pkg update && pkg upgrade
+pkg install wget -y
+pkg install curl git -y
+pkg install figlet lolcat
+pkg install bash
+git clone https://github.com/EnigmaXploit/TOOLSDARKV1.sh.git
+cd TOOLSDARKV1
+bash TOOLSDARKV1.sh
